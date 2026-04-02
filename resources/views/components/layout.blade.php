@@ -7,7 +7,7 @@
 </head>
 <style>
     *{
-        background-color: grey;
+        background-color: lightgray;
     }
 </style>
 <body>
