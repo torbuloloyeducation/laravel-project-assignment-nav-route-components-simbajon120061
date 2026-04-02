@@ -7,10 +7,11 @@
 </head>
 <style>
     *{
-        background-color: grey;
+        background-color: lightgray;
     }
 </style>
 <body>
-{{ $slot }}
+    <x-navbar />
+    {{ $slot }}
 </body>
 </html>
